@@ -8,6 +8,11 @@ router.get("/") {
 	next()
 }
 
+router.get("/name/:name") { request, response, _ in
+	let name = request.parameters["name"] ?? ""
+	try response.send("Hello \(name)").end()
+}
+
 Kitura.addHTTPServer(onPort: 8080, with: router)
 
 Kitura.run()
