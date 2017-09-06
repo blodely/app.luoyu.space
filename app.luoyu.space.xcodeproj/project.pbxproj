@@ -148,206 +148,206 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		890D008F1F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = OBJ_170;
-			remoteInfo = Socket;
-		};
-		890D00901F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
+		8999B3F81F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = OBJ_163;
 			remoteInfo = LoggerAPI;
 		};
-		890D00911F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
+		8999B3F91F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = OBJ_170;
 			remoteInfo = Socket;
 		};
-		890D00921F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
+		8999B3FA1F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = OBJ_179;
 			remoteInfo = SSLService;
 		};
-		890D00931F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
+		8999B3FB1F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = OBJ_170;
+			remoteInfo = Socket;
+		};
+		8999B3FC1F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = OBJ_237;
 			remoteInfo = CHTTPParser;
 		};
-		890D00941F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
+		8999B3FD1F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = OBJ_163;
 			remoteInfo = LoggerAPI;
 		};
-		890D00951F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
+		8999B3FE1F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = OBJ_170;
 			remoteInfo = Socket;
 		};
-		890D00961F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
+		8999B3FF1F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = OBJ_179;
 			remoteInfo = SSLService;
 		};
-		890D00971F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = OBJ_163;
-			remoteInfo = LoggerAPI;
-		};
-		890D00981F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = OBJ_170;
-			remoteInfo = Socket;
-		};
-		890D00991F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = OBJ_179;
-			remoteInfo = SSLService;
-		};
-		890D009A1F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = OBJ_237;
-			remoteInfo = CHTTPParser;
-		};
-		890D009B1F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
+		8999B4001F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = OBJ_188;
 			remoteInfo = KituraNet;
 		};
-		890D009C1F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = OBJ_252;
-			remoteInfo = SwiftyJSON;
-		};
-		890D009D1F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = OBJ_260;
-			remoteInfo = KituraTemplateEngine;
-		};
-		890D009E1F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = OBJ_260;
-			remoteInfo = KituraTemplateEngine;
-		};
-		890D009F1F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = OBJ_260;
-			remoteInfo = KituraTemplateEngine;
-		};
-		890D00A01F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = OBJ_331;
-			remoteInfo = Ccmark;
-		};
-		890D00A11F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
+		8999B4011F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = OBJ_163;
 			remoteInfo = LoggerAPI;
 		};
-		890D00A21F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
+		8999B4021F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = OBJ_170;
 			remoteInfo = Socket;
 		};
-		890D00A31F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
+		8999B4031F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = OBJ_179;
 			remoteInfo = SSLService;
 		};
-		890D00A41F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
+		8999B4041F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = OBJ_237;
 			remoteInfo = CHTTPParser;
 		};
-		890D00A51F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = OBJ_188;
-			remoteInfo = KituraNet;
-		};
-		890D00A61F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
+		8999B4051F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = OBJ_252;
 			remoteInfo = SwiftyJSON;
 		};
-		890D00A71F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
+		8999B4061F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = OBJ_260;
 			remoteInfo = KituraTemplateEngine;
 		};
-		890D00A81F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
+		8999B4071F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = OBJ_267;
 			remoteInfo = Kitura;
 		};
-		890D00A91F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
+		8999B4081F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = OBJ_163;
+			remoteInfo = LoggerAPI;
+		};
+		8999B4091F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = OBJ_170;
+			remoteInfo = Socket;
+		};
+		8999B40A1F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = OBJ_179;
+			remoteInfo = SSLService;
+		};
+		8999B40B1F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = OBJ_237;
+			remoteInfo = CHTTPParser;
+		};
+		8999B40C1F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = OBJ_188;
+			remoteInfo = KituraNet;
+		};
+		8999B40D1F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = OBJ_252;
+			remoteInfo = SwiftyJSON;
+		};
+		8999B40E1F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = OBJ_260;
+			remoteInfo = KituraTemplateEngine;
+		};
+		8999B40F1F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = OBJ_331;
 			remoteInfo = Ccmark;
 		};
-		890D00AA1F5FDE2700F075F2 /* PBXContainerItemProxy */ = {
+		8999B4101F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = OBJ_260;
+			remoteInfo = KituraTemplateEngine;
+		};
+		8999B4111F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = OBJ_359;
 			remoteInfo = KituraMarkdown;
 		};
+		8999B4121F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = OBJ_260;
+			remoteInfo = KituraTemplateEngine;
+		};
+		8999B4131F5FF0ED00BC1E01 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = OBJ_331;
+			remoteInfo = Ccmark;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		890D00AD1F5FDE6400F075F2 /* index.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = index.md; sourceTree = "<group>"; };
+		OBJ_10 /* Views */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Views; sourceTree = SOURCE_ROOT; };
 		OBJ_100 /* HeadersContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadersContainer.swift; sourceTree = "<group>"; };
 		OBJ_101 /* IncomingSocketHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncomingSocketHandler.swift; sourceTree = "<group>"; };
 		OBJ_102 /* IncomingSocketManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncomingSocketManager.swift; sourceTree = "<group>"; };
@@ -586,22 +586,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		890D00AB1F5FDE6400F075F2 /* Views */ = {
-			isa = PBXGroup;
-			children = (
-				890D00AC1F5FDE6400F075F2 /* docs */,
-			);
-			path = Views;
-			sourceTree = "<group>";
-		};
-		890D00AC1F5FDE6400F075F2 /* docs */ = {
-			isa = PBXGroup;
-			children = (
-				890D00AD1F5FDE6400F075F2 /* index.md */,
-			);
-			path = docs;
-			sourceTree = "<group>";
-		};
 		OBJ_109 /* FastCGI */ = {
 			isa = PBXGroup;
 			children = (
@@ -855,9 +839,9 @@
 			isa = PBXGroup;
 			children = (
 				OBJ_6 /* Package.swift */,
-				890D00AB1F5FDE6400F075F2 /* Views */,
 				OBJ_7 /* Sources */,
 				OBJ_9 /* Tests */,
+				OBJ_10 /* Views */,
 				OBJ_11 /* Dependencies */,
 				OBJ_151 /* Products */,
 			);
@@ -1439,142 +1423,142 @@
 		OBJ_187 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_170 /* Socket */;
-			targetProxy = 890D008F1F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B3FB1F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_233 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_163 /* LoggerAPI */;
-			targetProxy = 890D00901F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B4011F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_234 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_170 /* Socket */;
-			targetProxy = 890D00911F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B4021F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_235 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_179 /* SSLService */;
-			targetProxy = 890D00921F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B4031F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_236 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_237 /* CHTTPParser */;
-			targetProxy = 890D00931F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B4041F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_249 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_163 /* LoggerAPI */;
-			targetProxy = 890D00941F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B3FD1F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_250 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_170 /* Socket */;
-			targetProxy = 890D00951F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B3FE1F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_251 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_179 /* SSLService */;
-			targetProxy = 890D00961F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B3FF1F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_324 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_163 /* LoggerAPI */;
-			targetProxy = 890D00971F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B4081F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_325 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_170 /* Socket */;
-			targetProxy = 890D00981F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B4091F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_326 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_179 /* SSLService */;
-			targetProxy = 890D00991F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B40A1F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_327 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_237 /* CHTTPParser */;
-			targetProxy = 890D009A1F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B40B1F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_328 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_188 /* KituraNet */;
-			targetProxy = 890D009B1F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B40C1F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_329 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_252 /* SwiftyJSON */;
-			targetProxy = 890D009C1F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B40D1F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_330 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_260 /* KituraTemplateEngine */;
-			targetProxy = 890D009D1F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B40E1F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_358 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_260 /* KituraTemplateEngine */;
-			targetProxy = 890D009E1F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B4101F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_368 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_260 /* KituraTemplateEngine */;
-			targetProxy = 890D009F1F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B4121F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_369 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_331 /* Ccmark */;
-			targetProxy = 890D00A01F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B4131F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_387 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_163 /* LoggerAPI */;
-			targetProxy = 890D00A11F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B3F81F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_388 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_170 /* Socket */;
-			targetProxy = 890D00A21F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B3F91F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_389 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_179 /* SSLService */;
-			targetProxy = 890D00A31F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B3FA1F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_390 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_237 /* CHTTPParser */;
-			targetProxy = 890D00A41F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B3FC1F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_391 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_188 /* KituraNet */;
-			targetProxy = 890D00A51F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B4001F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_392 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_252 /* SwiftyJSON */;
-			targetProxy = 890D00A61F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B4051F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_393 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_260 /* KituraTemplateEngine */;
-			targetProxy = 890D00A71F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B4061F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_394 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_267 /* Kitura */;
-			targetProxy = 890D00A81F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B4071F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_395 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_331 /* Ccmark */;
-			targetProxy = 890D00A91F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B40F1F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 		OBJ_396 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_359 /* KituraMarkdown */;
-			targetProxy = 890D00AA1F5FDE2700F075F2 /* PBXContainerItemProxy */;
+			targetProxy = 8999B4111F5FF0ED00BC1E01 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
