@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B675EBB21F614E3000746465 /* AppRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = B675EBB11F614E3000746465 /* AppRouter.swift */; };
 		OBJ_140 /* Logger.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_124 /* Logger.swift */; };
 		OBJ_147 /* Socket.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_119 /* Socket.swift */; };
 		OBJ_148 /* SocketProtocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_120 /* SocketProtocols.swift */; };
@@ -288,6 +289,7 @@
 
 /* Begin PBXFileReference section */
 		89E91C901F5A3E8000B94D9D /* ScriptDockerIbmSwift.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = ScriptDockerIbmSwift.sh; sourceTree = "<group>"; };
+		B675EBB11F614E3000746465 /* AppRouter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppRouter.swift; sourceTree = "<group>"; };
 		OBJ_100 /* URLParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLParser.swift; sourceTree = "<group>"; };
 		OBJ_102 /* Server.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Server.swift; sourceTree = "<group>"; };
 		OBJ_103 /* ServerDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServerDelegate.swift; sourceTree = "<group>"; };
@@ -656,7 +658,7 @@
 			path = bodyParser;
 			sourceTree = "<group>";
 		};
-		OBJ_5 /*  */ = {
+		OBJ_5 = {
 			isa = PBXGroup;
 			children = (
 				89E91C901F5A3E8000B94D9D /* ScriptDockerIbmSwift.sh */,
@@ -666,7 +668,6 @@
 				OBJ_10 /* Dependencies */,
 				OBJ_125 /* Products */,
 			);
-			name = "";
 			sourceTree = "<group>";
 		};
 		OBJ_50 /* contentType */ = {
@@ -758,6 +759,7 @@
 			isa = PBXGroup;
 			children = (
 				OBJ_8 /* main.swift */,
+				B675EBB11F614E3000746465 /* AppRouter.swift */,
 			);
 			path = Sources;
 			sourceTree = SOURCE_ROOT;
@@ -991,7 +993,7 @@
 			knownRegions = (
 				en,
 			);
-			mainGroup = OBJ_5 /*  */;
+			mainGroup = OBJ_5;
 			productRefGroup = OBJ_125 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -1171,6 +1173,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 0;
 			files = (
+				B675EBB21F614E3000746465 /* AppRouter.swift in Sources */,
 				OBJ_308 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
