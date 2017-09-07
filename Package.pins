@@ -5,7 +5,7 @@
       "package": "CCurl",
       "reason": null,
       "repositoryURL": "https://github.com/IBM-Swift/CCurl.git",
-      "version": "0.4.0"
+      "version": "0.4.1"
     },
     {
       "package": "Kitura",
@@ -17,13 +17,19 @@
       "package": "Kitura-TemplateEngine",
       "reason": null,
       "repositoryURL": "https://github.com/IBM-Swift/Kitura-TemplateEngine.git",
-      "version": "1.7.1"
+      "version": "1.7.2"
     },
     {
       "package": "Kitura-net",
       "reason": null,
       "repositoryURL": "https://github.com/IBM-Swift/Kitura-net.git",
       "version": "1.7.15"
+    },
+    {
+      "package": "KituraMarkdown",
+      "reason": null,
+      "repositoryURL": "https://github.com/IBM-Swift/Kitura-Markdown.git",
+      "version": "0.9.0"
     },
     {
       "package": "LoggerAPI",
