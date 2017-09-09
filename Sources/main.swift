@@ -3,7 +3,7 @@ import KituraMarkdown
 
 // MARK: - ROUTER
 
-let router = Router()
+let router = AppRouter.create()
 
 // Add KituraMarkdown as a TemplatingEngine
 router.add(templateEngine: KituraMarkdown())

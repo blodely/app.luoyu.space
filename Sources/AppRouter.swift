@@ -6,8 +6,16 @@
 //
 //
 
+import Foundation
 import Kitura
 
-class AppRouter: Router {
-
+public struct AppRouter {
+	
+	public static func create() -> Router {
+		
+		let router = Router()
+		
+		return router
+		
+	}
 }
