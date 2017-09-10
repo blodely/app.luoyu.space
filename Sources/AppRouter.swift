@@ -11,6 +11,7 @@ import Kitura
 
 public struct AppRouter {
 	
+	// MARK: CREATE
 	public static func create() -> Router {
 		
 		let router = Router()
