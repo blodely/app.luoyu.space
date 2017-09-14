@@ -5,15 +5,6 @@ import KituraMarkdown
 
 let router = AppRouter.create()
 
-// Add KituraMarkdown as a TemplatingEngine
-router.add(templateEngine: KituraMarkdown())
-
-router.get("/") {
-	request, response, next in
-	response.send("<html><body><h2>hello, love</h2></body></html>")
-	next()
-}
-
 router.get("/name/:name") { request, response, _ in
 	let name = request.parameters["name"] ?? ""
 	try response.send("Hello \(name)").end()
