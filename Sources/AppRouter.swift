@@ -20,6 +20,7 @@ public struct AppRouter {
 		// Add KituraMarkdown as a TemplatingEngine
 		router.add(templateEngine: KituraMarkdown())
 		
+		// Show default index.html page under ./public folder
 		router.all("/", allowPartialMatch: true, middleware: StaticFileServer())
 		
 		return router
