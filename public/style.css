@@ -4,7 +4,38 @@ Email: indie.luo@gmail.com
 Date: September 13, 2017
 */
 
-. {
+body {
 	margin:0;
 	padding:0;
 }
+
+a {
+	text-decoration:none;
+}
+
+/* #header */
+
+#header {
+	width:100%;
+	height:70px;
+	background-color:#FF0;
+}
+
+#header #site-title {
+	width:280px;
+	height:100%;
+}
+
+#header #site-title .logo {
+	width:70px;
+	height:70px;
+	float:left;
+}
+
+#header #site-title .name {
+	height:100%;
+	line-height:70px;
+}
+
+/* End of #header */
+
